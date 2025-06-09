@@ -9,8 +9,11 @@
 4. Create private routing table and associate subnets with it
 5. Create internet gateway
 6. In public subnets enable `Autoassign public IP` option
-7. Create EC2 instance in public subnet
+7. Configure route table for public subnets 
+8. Create EC2 instance in public subnet
  - create new security group with default settings
-8. Use `Instance connect` to connect to EC2
+9. Use `Instance connect` to connect to EC2
  - `ping google.com`
-9. Terminate EC2 instance
+10. Terminate EC2 instance
+
+>>> all done till pt 7, now pt 8.
