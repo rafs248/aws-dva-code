@@ -15,5 +15,3 @@
 9. Use `Instance connect` to connect to EC2
  - `ping google.com`
 10. Terminate EC2 instance
-
->>> all done till pt 7, now pt 8.
